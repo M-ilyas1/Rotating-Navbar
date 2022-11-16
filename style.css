@@ -9,7 +9,7 @@ body{
     margin: 0;
 }
 .container{
-    background-color: #fafafa;
+    background-color: #f1eeee;
     transform-origin: top left;
     transition: transform 0.5s linear;
     width:  100vw;
