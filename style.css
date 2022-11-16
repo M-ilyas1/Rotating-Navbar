@@ -20,12 +20,12 @@ body{
     transform: rotate(-20deg);
 }
 .circle-container{
-    position: fixed;
+    position: fixed;        
     top: -100px;
     left: -100px;
 }
 .circle{
-    background-color: #f10b0b;
+    background-color: #9a0d0d;
     height: 200px;
     width: 200px;
     border-radius: 50%;
